@@ -5,8 +5,8 @@
 		<Metadata name="CommonModule.ЗарплатаКадрыБазовый.Module" id="3c605ccd-f5b8-45e3-b9d3-c5107e4ac77a.0" configVersion="5764e20b661004245912b4241a9d39a2f1fdd519"/>
 		<Metadata name="CommonModule.РегламентированнаяОтчетностьКлиент" id="6da531ca-0afd-411d-ac5b-13f5e0d24f11" configVersion="b05fc28b03fc4467c8237b57798c6a1e1da6352f"/>
 		<Metadata name="CommonModule.РегламентированнаяОтчетностьКлиент.Module" id="6da531ca-0afd-411d-ac5b-13f5e0d24f11.0" configVersion="47bd47179ec179a71dd25fd3a18296be5fb9f8b4"/>
-		<Metadata name="CommonModule.РегламентированнаяОтчетностьКлиентПереопределяемый" id="1069f669-d57f-488d-96c8-18ba7602c327" configVersion="a91aaf2d40b27440e25b5c5ac5ac70a754ce3d4b"/>
-		<Metadata name="CommonModule.РегламентированнаяОтчетностьКлиентПереопределяемый.Module" id="1069f669-d57f-488d-96c8-18ba7602c327.0" configVersion="9f43e09c3b34d68d182491cad022f90454e2464e"/>
+		<Metadata name="CommonModule.РегламентированнаяОтчетностьКлиентПереопределяемый" id="1069f669-d57f-488d-96c8-18ba7602c327" configVersion="5987c74b7f52300216ccfe9a34c62fb7602f8063"/>
+		<Metadata name="CommonModule.РегламентированнаяОтчетностьКлиентПереопределяемый.Module" id="1069f669-d57f-488d-96c8-18ba7602c327.0" configVersion="d88cc03971f5f82a9dad043337182f2868e6b4b6"/>
 		<Metadata name="CommonModule.СтатистикаПерсоналаРасширенный" id="bdc889f0-815e-49d1-b925-696f814d4295" configVersion="b6a6cb578ef27f5e0410a9a630a03aad8fdd0df0"/>
 		<Metadata name="CommonModule.СтатистикаПерсоналаРасширенный.Module" id="bdc889f0-815e-49d1-b925-696f814d4295.0" configVersion="0d9f1ed0abb83f6538ea217a4f060568bb8a66e9"/>
 		<Metadata name="Configuration.ИсправлениеФормированияОтчетаП4" id="178d7a78-181f-4ade-a21f-6270bd67c62d" configVersion="da76c6696af90973bd68e2ef98198da2586fca5b"/>
