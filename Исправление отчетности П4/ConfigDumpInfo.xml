@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
+	<ConfigVersions>
+		<Metadata name="CommonModule.ЗарплатаКадрыБазовый" id="3c605ccd-f5b8-45e3-b9d3-c5107e4ac77a" configVersion="1c313f8ac6eb80bab3bfee0c92a49a9bc486f398"/>
+		<Metadata name="CommonModule.ЗарплатаКадрыБазовый.Module" id="3c605ccd-f5b8-45e3-b9d3-c5107e4ac77a.0" configVersion="5764e20b661004245912b4241a9d39a2f1fdd519"/>
+		<Metadata name="CommonModule.РегламентированнаяОтчетностьКлиент" id="6da531ca-0afd-411d-ac5b-13f5e0d24f11" configVersion="b05fc28b03fc4467c8237b57798c6a1e1da6352f"/>
+		<Metadata name="CommonModule.РегламентированнаяОтчетностьКлиент.Module" id="6da531ca-0afd-411d-ac5b-13f5e0d24f11.0" configVersion="47bd47179ec179a71dd25fd3a18296be5fb9f8b4"/>
+		<Metadata name="CommonModule.РегламентированнаяОтчетностьКлиентПереопределяемый" id="1069f669-d57f-488d-96c8-18ba7602c327" configVersion="a91aaf2d40b27440e25b5c5ac5ac70a754ce3d4b"/>
+		<Metadata name="CommonModule.РегламентированнаяОтчетностьКлиентПереопределяемый.Module" id="1069f669-d57f-488d-96c8-18ba7602c327.0" configVersion="9f43e09c3b34d68d182491cad022f90454e2464e"/>
+		<Metadata name="CommonModule.СтатистикаПерсоналаРасширенный" id="bdc889f0-815e-49d1-b925-696f814d4295" configVersion="b6a6cb578ef27f5e0410a9a630a03aad8fdd0df0"/>
+		<Metadata name="CommonModule.СтатистикаПерсоналаРасширенный.Module" id="bdc889f0-815e-49d1-b925-696f814d4295.0" configVersion="0d9f1ed0abb83f6538ea217a4f060568bb8a66e9"/>
+		<Metadata name="Configuration.ИсправлениеФормированияОтчетаП4" id="178d7a78-181f-4ade-a21f-6270bd67c62d" configVersion="da76c6696af90973bd68e2ef98198da2586fca5b"/>
+		<Metadata name="Language.Русский" id="7fcd6af7-f8b9-43c2-bcce-38900b9bcb4f" configVersion="a4e1bbb4e1b2e13555818cb8d58773c990040760"/>
+		<Metadata name="Report.РегламентированныйОтчетСтатистикаФормаП4" id="ba0dedc2-4fa9-4811-a29c-232a1455097b" configVersion="a7c86198b4a5b28a1d4775f2cee765fec73de3fb"/>
+		<Metadata name="Report.РегламентированныйОтчетСтатистикаФормаП4.Form.ФормаОтчета2020Кв1" id="2f766e20-71bf-449f-afa7-7309b70b95ab" configVersion="76cfb9949459d0cefd4b42dcc28c239fc4d7919a"/>
+		<Metadata name="Report.РегламентированныйОтчетСтатистикаФормаП4.Form.ФормаОтчета2020Кв1.Form" id="2f766e20-71bf-449f-afa7-7309b70b95ab.0" configVersion="b775b44f5c9af9b92623764aee92f9725345b899"/>
+		<Metadata name="Role.ОтчетП4_ОсновнаяРоль" id="0bbd0f4f-de99-4180-8346-8bde16f8b44d" configVersion="e3c30f395b344aef4d8e6360c0480ba8f7d0bb46"/>
+		<Metadata name="StyleItem.ЦветФонаОшибкиОтправки" id="30b7a35d-97a0-457e-bfbd-7f9e43d7e523" configVersion="54d73e119e0657f5ab4b44daed11fb0ffbc67c16"/>
+		<Metadata name="StyleItem.ЦветФонаУдачнойОтправки" id="bf03ec86-eb1f-4b6c-a5be-e19fc2f1337c" configVersion="6d0733fb63002ecb3fb5c7e3d1266674b7dcb8a9"/>
+		<Metadata name="StyleItem.ЦветШрифтаКомментарияКСостоянию" id="6be1fe68-2793-4559-8599-a7e6a6fb52d2" configVersion="8f63ea72727a0159b6fd0f8bcd18ca59ac10acec"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
